@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/the_best_movies/static/js/main.3d97c4c2.js",
+    "index.html": "/the_best_movies/index.html",
+    "main.3d97c4c2.js.map": "/the_best_movies/static/js/main.3d97c4c2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d97c4c2.js"
+  ]
+}
